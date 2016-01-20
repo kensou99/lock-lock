@@ -1,5 +1,3 @@
-package concurrent.locks;
-
 import java.util.Arrays;
 import java.util.concurrent.CountDownLatch;
 
