@@ -5,7 +5,6 @@
  * Company: 易宝支付(YeePay)<br/>
  *
  * @author wenkang.zhang
- * @version 1.0.0
  * @since 16-1-21 下午5:08
  */
 public class SequenceByKensou99 extends Sequence {
