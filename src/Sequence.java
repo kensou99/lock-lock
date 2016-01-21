@@ -7,7 +7,7 @@ import java.util.concurrent.CountDownLatch;
  * Copyright: Copyright (c)2014<br/>
  * Company: 易宝支付(YeePay)<br/>
  *
- * @author wenkang.zhangx
+ * @author wenkang.zhang
  * @version 1.0.0
  * @since 16-1-20 上午10:27
  */
